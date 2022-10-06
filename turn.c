@@ -1,8 +1,3 @@
-/*
-	Anthony Gong
-	Turnpike Problem
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
