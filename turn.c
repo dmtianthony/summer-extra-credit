@@ -210,10 +210,6 @@ int main(){
 	}
 	p[ptotal-1]=d[dtotal-1]; //largest
 	p[ptotal-2]=d[dtotal-2]; //second largest
-	//printf("\ninitial p: ");
-	for(i=0;i<ptotal;i++){
-		//printf("%d ",p[i]);
-	}
 	dtotal--; //update d
 	dtotal--;
 	for(i=0;i<dtotal;i++){
